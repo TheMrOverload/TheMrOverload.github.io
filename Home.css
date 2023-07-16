@@ -240,11 +240,12 @@
 
   .u-section-3 .u-group-1 {
     width: 340px;
-    min-height: 167px;
+    min-height: 249px;
   }
 
   .u-section-3 .u-form-1 {
     width: 340px;
+    margin-top: 20px;
   }
 
   .u-section-3 .u-line-2 {
@@ -274,9 +275,7 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-text-1 {
-    margin-top: 11px;
     margin-left: auto;
-    margin-bottom: 31px;
   }
 }
 
@@ -286,6 +285,7 @@
   }
 
   .u-section-4 .u-text-1 {
+    margin-top: 11px;
     margin-bottom: 11px;
   }
 } .u-section-5 {

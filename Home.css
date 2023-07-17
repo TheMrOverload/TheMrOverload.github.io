@@ -68,9 +68,9 @@
 }
 
 .u-section-2 .u-line-1 {
-  width: 97px;
+  width: 345px;
   transform-origin: right center 0px;
-  margin: -16px auto 40px -195px;
+  margin: -14px auto 38px -443px;
 }
 
 @media (max-width: 1199px) {
@@ -96,8 +96,8 @@
   }
 
   .u-section-2 .u-line-1 {
-    margin-bottom: 41px;
-    margin-left: -122px;
+    margin-bottom: 39px;
+    margin-left: -370px;
   }
 }
 
